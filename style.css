@@ -89,7 +89,6 @@ label:hover{
 
 .pic{
     position: relative;
-    height: 230px;
     box-shadow:  3px 3px 4px lightgray;
     cursor: pointer;
     transition: .5s;
